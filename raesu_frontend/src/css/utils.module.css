@@ -1,0 +1,33 @@
+.centerBlock {
+    display: block;
+    margin: 0 auto;
+}
+
+.centerFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    height: 13%;
+    font-size: 13px;
+}
+
+.newNoteButton {
+    background: rgba(0, 0, 0, 0);
+    border: 0;
+}
+
+.newNoteButton:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #14453D;
+}
+
+.newNoteButton:active {
+    background: rgb(255, 0, 0);
+    color: #246EB9;
+}
+
+.newNoteIcon {
+    height: 30px;
+    width: 30px;
+}
