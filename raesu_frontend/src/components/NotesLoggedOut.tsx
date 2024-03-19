@@ -1,6 +1,9 @@
 const NotesLoggedOut = () => {
     return (
-        <p>Please log in</p>
+        <div>
+            <p>Login or register</p>
+            <p>or use username and password "demo"!</p>
+        </div>
     );
 }
 
