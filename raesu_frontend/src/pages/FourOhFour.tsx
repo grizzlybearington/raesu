@@ -2,7 +2,7 @@ const FourOhFour = () => {
     return (
         <div>
             <h1>404</h1>
-            <p>It is pitch black. You are likely to be eaten by a grue.</p>
+            <p>This page could not be found!</p>
         </div>
     );
 }
